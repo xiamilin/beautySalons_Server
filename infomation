@@ -1,0 +1,7 @@
+美容院的预约管理的客户端和服务器代码超过100M了，所以我发到了百度网盘上。
+客户端：https://pan.baidu.com/s/1lU5NoFtTtUXAHVDem5lg7A 提取码：mmhx
+服务端：https://pan.baidu.com/s/1bM7XtrF3KIogB61t7-Np1g 提取码：hxyz
+运行：下载下来后，解压。客户端使用的软件是：Android Studio,服务端用的是Myeclipse 2017 CI，数据库用的是mysql workbench。
+jdk版本是： "1.8.0_181"
+客户端调试代码的手机安卓5.0版本（我的电脑配置比较一般，跑不动android studio模拟器，所以我用的是实机）
+
